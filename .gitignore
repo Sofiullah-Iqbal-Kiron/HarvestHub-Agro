@@ -1,0 +1,9 @@
+backend/*/__pycache__
+backend/*/*/__pycache__
+
+env
+
+frontend/.idea
+frontend/.vscode
+frontend/dist
+frontend/node_modules
